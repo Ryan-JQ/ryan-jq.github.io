@@ -6,7 +6,16 @@
     <description>Recent content in Posts on Ryan Blog Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 17 Sep 2021 13:54:47 +0800</lastBuildDate><atom:link href="http://example.org/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 17 Sep 2021 13:56:42 +0800</lastBuildDate><atom:link href="http://example.org/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ryanshen</title>
+      <link>http://example.org/post/ryanshen/</link>
+      <pubDate>Fri, 17 Sep 2021 13:56:42 +0800</pubDate>
+      
+      <guid>http://example.org/post/ryanshen/</guid>
+      <description>Stuckness shouldn&amp;rsquo;t be avoided. It&amp;rsquo;s the psychic predecessor of all real understanding. An egoless acceptance of stuckness is a key to an understanding of all Quality, in mechanical work as in other endeavors. &amp;ndash; R. Pirsig, &amp;ldquo;Zen and the Art of Motorcycle Maintenance&amp;rdquo;</description>
+    </item>
+    
     <item>
       <title>Test</title>
       <link>http://example.org/post/test/</link>

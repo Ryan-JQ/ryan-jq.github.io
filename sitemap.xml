@@ -4,12 +4,17 @@
   
   <url>
     <loc>http://example.org/post/</loc>
-    <lastmod>2021-09-17T13:54:47+08:00</lastmod>
+    <lastmod>2021-09-17T13:56:42+08:00</lastmod>
   </url>
   
   <url>
     <loc>http://example.org/</loc>
-    <lastmod>2021-09-17T13:54:47+08:00</lastmod>
+    <lastmod>2021-09-17T13:56:42+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/post/ryanshen/</loc>
+    <lastmod>2021-09-17T13:56:42+08:00</lastmod>
   </url>
   
   <url>
