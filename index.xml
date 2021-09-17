@@ -6,7 +6,16 @@
     <description>Recent content on Ryan Blog Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 17 Sep 2021 13:37:54 +0800</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 17 Sep 2021 13:54:47 +0800</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test</title>
+      <link>http://example.org/post/test/</link>
+      <pubDate>Fri, 17 Sep 2021 13:54:47 +0800</pubDate>
+      
+      <guid>http://example.org/post/test/</guid>
+      <description>&amp;ldquo;This is a job for BOB VIOLENCE and SCUM, the INCREDIBLY STUPID MUTANT DOG.&amp;rdquo; &amp;ndash; Bob Violence</description>
+    </item>
+    
     <item>
       <title>Randam_test</title>
       <link>http://example.org/post/randam_test/</link>
